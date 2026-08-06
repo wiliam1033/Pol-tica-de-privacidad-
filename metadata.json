@@ -1,0 +1,6 @@
+{
+  "name": "Política de Privacidad",
+  "description": "Página oficial de política de privacidad para las aplicaciones de William Obando Chacón.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
